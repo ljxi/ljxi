@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"> Hello World 👋 </h1>
 
-<!--
-**ljxi/ljxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Visitor Count](https://profile-counter.glitch.me/ljxi/count.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljxi&layout=compact&theme=tokyonight)
+
+
+![](https://github-readme-stats.vercel.app/api?username=ljxi&show_icons=true&theme=transparent)
+
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=ljxi&theme=dracula)
